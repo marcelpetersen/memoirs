@@ -1,8 +1,8 @@
 ---
-name: muhammed ashfar
-display_name: Muhammed Ashfar
+name: Marcel
+display_name: Marcel
 avatar: /assets/images/avatar.png
-email: muhammed.ashfar.7@gmail.com
-web: https://muhd.tk
-description: Hi, I am Muhammed Ashfar.
+email: mail@com
+web: https://test
+description: Hi, I am Marcel.
 ---
