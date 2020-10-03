@@ -9,8 +9,7 @@ plugins:
   - jekyll-figure
 highlighter: none
 name: Fotografie
-description: I will take you on the fabulous world of exploration. Travel,
-  culture, lifestyle. Eat, Pray, Love!
+description: Ik neem je mee in de wondere wereld van fotografie!
 baseurl: ""
 disqus: demowebsite
 include:
