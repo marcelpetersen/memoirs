@@ -5,8 +5,8 @@ beforetoc: Prism highlighter is a very powerful thing. In this article I'm going
   editing your post. Tocs is also enabled as you can see in summary.
 date: 2020-05-02T15:04:46.000Z
 layout: post
-title: Education must also train one for quick, resolute and effective thinking.
-author: muhammed ashfar
+title: locatie, locatie, locatie
+author: marcel
 categories:
   - Lifestyle
 tags:
@@ -14,7 +14,7 @@ tags:
 image: /assets/images/3.jpg
 rating: ""
 ---
-Memoirs theme has Prism highlighter integrated. I will show you in this post a few examples of how it looks if you are a developer planning to add pieces of code on your website.
+Fotograferen is locatie, locatie, locatie
 
 
 #### HTML
